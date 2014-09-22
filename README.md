@@ -1,12 +1,11 @@
-# python-i18n [![Build Status](https://travis-ci.org/tuvistavie/python-i18n.png?branch=master)](https://travis-ci.org/tuvistavie/python-i18n) [![Coverage Status](https://coveralls.io/repos/tuvistavie/python-i18n/badge.png?branch=master)](https://coveralls.io/r/tuvistavie/python-i18n?branch=master)
-
+# python-i18n#
 
 This library provides i18n functionality for Python 3 out of the box. The usage is mostly based on Rails i18n library.
 
 ## Installation
 
 Just run
-
+[![Build Status](https://apibeta.shippable.com/projects/541fd03276d0c288e441e4f3/badge?branchName=master)](https://appbeta.shippable.com/projects/541fd03276d0c288e441e4f3/builds/latest)
     pip install python-i18n
 
 If you want to use YAML to store your translations, use
